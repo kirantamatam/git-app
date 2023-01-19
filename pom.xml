@@ -52,12 +52,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://172.31.85.190:8081/repository/app-snapshot/</url>
+		    <url>http://172.31.22.117:8081/repository/app-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://172.31.85.190:8081/repository/app-release/</url>
+		    <url>http://172.31.22.117:8081/repository/app-release/</url>
 		</repository>
   	</distributionManagement>
 
